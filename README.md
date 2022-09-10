@@ -2,7 +2,7 @@
 # A TensorFlow implementation of U-Net for aerial imagery semantic segmentation
 <p align="center">
 <kbd>
-   <img align="center" src="https://user-images.githubusercontent.com/54831801/189468893-29420c1f-714b-40b1-86c4-49f9f78e1176.png" width="900" height="400">
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189468893-29420c1f-714b-40b1-86c4-49f9f78e1176.png" width="1000" height="400">
 </kbd>
 </p>
 
