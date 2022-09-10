@@ -7,7 +7,7 @@
 </p>
 
 ## Description 
-In this repo, we review the problem of semantic segmentation on unbalanced binary masks. We train the U-Net implemented in TensorFlow to perform semantic segmentation on aerial images. 
+In this repo, we are goinig solve the problem of semantic segmentation on unbalanced binary masks. We implemented U-Net in TensorFlow to perform semantic segmentation on aerial images. 
 
 ## Dataset
 The dataset used here is “Semantic segmentation of aerial imagery” which contains 72 satellite images of Dubai, the UAE, and is segmented into 6 classes. The classes include water, land, road, building, vegetation, and unlabeled.
