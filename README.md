@@ -31,6 +31,6 @@ We trained the U-Net on the mentioned dataset. It’s important to note that the
 <figure>
   <img
   src="https://user-images.githubusercontent.com/54831801/189468927-158c295f-24a3-4364-9118-61b6c9a8e9f9.png"
-  alt="segmentation result.">
-  <figcaption>MDN Logo</figcaption>
+
+  <figcaption>segmentation result.</figcaption>
 </figure>
